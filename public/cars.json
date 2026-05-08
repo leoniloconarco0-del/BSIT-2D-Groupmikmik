@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Lamborghini",
+    "description": "Ultra luxury sports car",
+    "rating": 5,
+    "price": "$250,000",
+    "image": "https://pixabay.com/get/ga926949273da938df4f61e6a93e1f522df7bc247e61fc15131877706bc88167c082279c5e40ca36894319fca936c6aa468852cae1a514a6683e13908be84c4b8_1920.jpg"
+  },
+  {
+    "brand": "Ferrari",
+    "description": "High-performance Italian car",
+    "rating": 5,
+    "price": "$300,000",
+    "image": "https://cdn.pixabay.com/photo/2019/07/16/09/01/ferrari-4341358_1280.jpg"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "description": "Luxury and comfort vehicle",
+    "rating": 5,
+    "price": "$400,000",
+    "image": "https://pixabay.com/get/ga76aaeeadd73356bd6529926b6328f750216b163b24f1fa9e8d01704daf7cfde98b16e4d2e70c29a8a850278576f328bc7050500d78dda4937fb3a77fa77f2d6_1920.jpg"
+  },
+  {
+    "brand": "Bugatti",
+    "description": "One of the fastest cars in the world",
+    "rating": 5,
+    "price": "$3,000,000",
+    "image": "https://pixabay.com/get/g16edc692bee4b9b50caeb59e5c6c58d27e01d4ecbce851c3c53a47815aad108c689b461f039aa0aefd64105768e6c8a48855eb19f4b3171c779441aa69c0ba06_1920.jpg"
+  },
+  {
+    "brand": "McLaren",
+    "description": "British high-performance supercar",
+    "rating": 5,
+    "price": "$280,000",
+    "image": "https://pixabay.com/get/gf645f2f5f8deece3b222347dd4951bbba2ed5eb43e59d661e0f913f6316b8751ce724580e4fe7e6b5ee9558053c3e103b7d2247fc6e52ec6a0030b1740392c46_1920.jpg"
+  },
+  {
+    "brand": "Porsche",
+    "description": "Luxury sports car with precision engineering",
+    "rating": 5,
+    "price": "$150,000",
+    "image": "https://pixabay.com/get/gf5dd3a29ace848aff5fa4dadaeb409f407a8044395b6a7728bdabd0e600621be164b354a5fdd239728cc79d8faa5588a4d08183ae44decb0dd755317c9c0356c_1920.jpg"
+  }
+]

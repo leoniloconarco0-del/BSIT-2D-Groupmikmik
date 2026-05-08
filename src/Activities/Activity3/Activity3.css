@@ -1,0 +1,92 @@
+.container {
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.Activity3-card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.Activity3-car-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.Activity3-car-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+.Activity3-image-wrapper {
+  position: relative;
+}
+
+.Activity3-car-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.Activity3-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: black;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.Activity3-car-content {
+  padding: 15px;
+}
+
+.Activity3-car-content h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.Activity3-desc {
+  font-size: 13px;
+  color: #555;
+  margin: 8px 0;
+}
+
+.Activity3-price-row {
+  margin: 10px 0;
+}
+
+.Activity3-price {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1a73e8;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background: #111;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #333;
+}
