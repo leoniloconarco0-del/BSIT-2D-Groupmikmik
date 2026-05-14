@@ -5,11 +5,6 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-  margin: 0;
-  background-color: #f0f2f5;
-}
-
 .Activity1-container {
   text-align: center;
 }
@@ -80,4 +75,5 @@ body {
   background: #222;
   color: white;
   padding: 15px;
+  font-size: 0.9rem;
 }

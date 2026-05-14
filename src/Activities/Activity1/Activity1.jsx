@@ -7,18 +7,16 @@ function Activity1() {
     { name: "Leonilo Conarco", role: "Developer" },
     { name: "Jhudiel Corpenio", role: "Designer" },
     { name: "Jedia Vic Luise Boctoy", role: "Researcher" },
-    { name: "Genesis Paul Sorio", role: "Researcher" },
+    { name: "Genesis Paul Sorio", role: "Presenter" },
   ];
 
   return (
-    <div className="Activity-container">
-      {/* Header */}
+    <div className="Activity1-container">
       <header className="header">
-        <h1>ITE6 - Group Mikmik</h1>
+        <h1>ITE6 – Group Mikmik</h1>
         <p>Welcome to our ReactJS Group Landing Page</p>
       </header>
 
-      {/* About Section */}
       <section className="about">
         <h2>About Our Group</h2>
         <p>
@@ -27,7 +25,6 @@ function Activity1() {
         </p>
       </section>
 
-      {/* Members Section */}
       <section className="members">
         <h2>Group Members</h2>
         <div className="card-container">
@@ -38,15 +35,10 @@ function Activity1() {
             </div>
           ))}
         </div>
-
-        {/* <link to="/Activity2">
-          <button>Go to Activity 2</button>
-        </link> */}
       </section>
 
-      {/* Footer */}
       <footer className="footer">
-        <p>© 2026 ITE6 - Group Mikmik. All Rights Reserved.</p>
+        <p>© 2026 ITE6 – Group Mikmik. All Rights Reserved.</p>
       </footer>
     </div>
   );
